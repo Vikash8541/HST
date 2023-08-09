@@ -1,0 +1,93 @@
+Shuttle Mission: STS-125
+Shuttle: Atlantis
+Date: May 11-24, 2009
+The Hubble Space Telescope was reborn with Servicing Mission 4 (SM4), the fifth and final servicing of the orbiting observatory. During SM4, two new scientific instruments were installed – the Cosmic Origins Spectrograph (COS) and Wide Field Camera 3 (WFC3). Two failed instruments, the Space Telescope Imaging Spectrograph (STIS) and the Advanced Camera for Surveys (ACS), were brought back to life by the first ever on-orbit repairs. With these efforts, Hubble has been brought to the apex of its scientific capabilities.
+
+To prolong Hubble's life, new batteries, new gyroscopes, a new science computer, a refurbished fine guidance sensor and new insulation on three electronics bays were also installed over the 12-day mission with five spacewalks. Additionally, a device was attached to the base of the telescope to facilitate de-orbiting when the telescope is eventually decommissioned.
+
+ 
+Objectives
+ 
+A spacewalking astronaut works in the space shuttle bay on Hubble with a play button and "Servicing Mission 4, Hubble Space Telescope" over the image.
+Hubble's Servicing Mission 4 was the most ambitious and complicated of all its servicing missions, involving changing out two major science instruments and repairing two others in space. The mission put Hubble at the apex of its power and capabilities.
+Credits: NASA's Goddard Space Flight Center/Paul Morris
+Watch the video
+STS-125 mission patch
+Hubble SM4 mission patch
+Install WFC3 - Wide Field Camera 3
+A high-resolution/wide-field camera with continuous coverage of wavelengths or colors of light from the ultraviolet to the near-infrared.
+ 
+Install COS - Cosmic Origins Spectrograph
+The most sensitive ultraviolet spectrograph ever planned to fly on Hubble.
+ 
+Repair STIS
+Restore the Space Telescope Imaging Spectrograph to operational status.
+ 
+Repair ACS
+Restore critical scientific functionality to the Advanced Camera for Surveys
+ 
+Replace Rate Sensor Units (gyroscopes)
+Complete change-out of all six gyroscopes, the heart of Hubble's pointing system, and Hubble's main wear-out items.
+ 
+FGS - Fine Guidance Sensor
+Last in a series of changed-out units that allow fine pointing of Hubble.
+ 
+Replace Batteries
+Replace the six batteries originally launched with Hubble in 1990, which are steadily losing capacity as they age.
+ 
+Install Soft Capture Mechanism
+Install the Soft Capture Mechanism on the aft end of Hubble to aid autonomous rendezvous and capture of Hubble of a future mission.
+ 
+New Outer Blanket Layers (NOBLs)
+Install NOBLs to thermally protect equipment bays whose thermal insulation has been degraded by the space environment.
+ 
+Replace SIC&DH
+Replace the original launched with Hubble in 1990 to insure redundancy of operations.
+​
+ 
+COS Installation
+diagram of COS
+Diagram of COS
+COS was designed with one overriding objective in mind: to collect as many ultraviolet photons of light as possible and hence make possible the effective study of the huge, dark reservoir of gas that exists between the galaxies both near and far--the so-called "cosmic web" of matter which represents the largest-scale structure in the universe.
+
+COS and the Space Telescope Imaging Spectrograph (STIS) were designed to be complementary. With the STIS repair, COS's unique spectroscopic capabilities will be augmented by those features which are unique to STIS.
+
+COS was mounted in the space occupied by COSTAR, which has not been utilized since the Faint Object Camera was replaced in 2002.
+
+ 
+WFC3 Installation
+wfc3 diagram
+Diagram of WFC3
+With a "panchromatic" grasp of light extending from the ultraviolet through the visible and into the infrared, is an extremely powerful imaging instrument, extending Hubble's capabilities by seeing deeper into the universe. WFC3 is viewed as an important bridge to the infrared observations that will be carried out with the James Webb Space Telescope (JWST) following its launch in 2021.
+
+WFC3 replaced the Wide-Field Camera 2 (WFPC2), which was installed during the 1993 First Servicing Mission and performed extraordinarily for nearly sixteen years. WFC3 has a 7-16 times advantage over WFPC2 in discovery efficiency (the product of field-of-view and sensitivity).
+
+WFC3 is complementary to the Advanced Camera for Surveys (ACS). The ACS is optimized for visible light, between blue and red wavelengths, whereas for WFC3 it is ultraviolet and infrared wavelengths. The WFC3 also provides a capable backup to the ACS at visible wavelengths, should the latter suffer future operational failures. Both continue to create the kinds of images for which the Hubble is best known.
+
+ 
+On Orbit Repairs to STIS and ACS
+EVA on STIS repair
+Spacewalk to repair STIS
+Hubble Ultra Deep Field Image
+Hubble Ultra Deep Field
+STIS FCS and mini power tool
+Two tools developed for on-orbit repair: the fastener capture plate for the STIS repair and the mini power tool with strap-on flashlight
+Hubble was designed with servicing in mind, so its instrument bay doors are lined with handrails and, with custom tools, are relatively easy to open for the astronauts. The same cannot be said for the instruments themselves.
+
+Installed on the telescope during the Second Servicing Mission in 1997, the Space Telescope Imaging Spectrograph (STIS) worked brilliantly for 7.5 years before the failure of a power supply in August 2004 interrupted operations. It had been in "safe mode" since that time.
+
+To repair STIS required replacing a power supply board located within the Side 1 electronics box. The development of this repair program represented a significant step forward in the ability to perform on-orbit spacecraft servicing.
+
+In January 2007 the Advanced Camera for Surveys (ACS) suffered a severe electronics failure, rendering inoperable the two most-used of the three science channels. Since its installation during Servicing Mission 3B in 2002, ACS had quickly became Hubble’s most heavily used instrument and was responsible for many of the telescope’s most popular and dramatic images, most famously perhaps the Hubble Ultra Deep Field, still the deepest, most detailed look into the early universe after galaxies had begun to form.
+
+With only two years until the final servicing mission, there would have been little time to develop procedures and tools needed to repair ACS had the team not already been preparing for a very similar task involving the repair of STIS. Designing a repair process for ACS became very workable by adapting the processes already under development for STIS repair. The ACS repair required the replacement of four boards in the electronic box and a new power supply box, which was installed on the outside of the instrument.
+
+NASA scientists, technicians and engineers were able to generate all the hardware and some very ingenious tools needed to perform both repairs and the astronauts repeatedly tested and refined the repair procedures during the two years that proceeded the mission launch. The spacewalking astronauts made it look easy, though they had to overcame frozen bolts, stripped screws, and stuck handrails. Aliveness tests performed immediately after the repairs confirmed that both instruments were indeed operational once again.
+
+ 
+STS-125 Crew Info
+Four astronauts trained for five scheduled spacewalks to upgrade and service the Hubble Space Telescope during the STS-125 mission in May 2009. Two veteran Hubble astronauts, John M. Grunsfeld and Michael J. Massimino, were joined by two astronauts making their first space flight, Michael T. Good (Col., USAF) and Andrew J. Feustel.
+
+STS-125 was Grunsfeld's fourth mission and his third trip to the Hubble Space Telescope. Grunsfeld had flown three times previously, STS-67 in 1995, and Hubble missions STS-81 in 1997, and STS-103 in 1999. STS-125 was Massimino's second trip to Hubble. Massimino had previously flown on STS-109 in March 2002, where he conducted two spacewalks. In his first space flight Good logged a total of 15 hours and 58 minutes of EVA in 2 spacewalks. Feustel logged a total of 20 hours and 58 minutes in 3 EVAs in this, his first, space mission.
+
+This was the fourth shuttle mission for veteran astronaut Scott Altman, (Cmdr., USN, Ret.), and his second trip to Hubble. Altman commanded the STS-109 mission, serving with John Grunsfeld and Mike Massimino. He was joined on the flight deck by pilot Gregory C. Johnson, (Capt., USN, Ret.), making his first space flight, and Mission Specialist Megan McArthur, also on her first space mission. McArthur served as the primary shuttle arm operator for STS-125.

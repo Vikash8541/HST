@@ -1,0 +1,48 @@
+Shuttle Mission: STS-82
+Shuttle: Discovery
+Date: February 11-21, 1997
+The Second Servicing Mission, launched February 11, 1997, greatly improved Hubble's productivity. The installation of new instruments extended Hubble's wavelength range into the near infrared for imaging and spectroscopy, allowing us to probe the most distant reaches of the universe. The replacement of failed or degraded spacecraft components increased efficiency and performance.
+
+Three categories of items made up the mission payload:
+
+Science instruments to enhance science productivity
+Primary spacecraft maintenance items
+Secondary spacecraft maintenance items
+ 
+New Science Instruments
+Space Telescope Imaging Spectrograph (STIS)
+The Space Telescope Imaging Spectrograph (STIS) provides Hubble with unique and powerful spectroscopic capabilities. A spectrograph separates the light gathered by the telescope into its spectral components so that the composition, temperature, motion, and other chemical and physical properties can be analyzed.
+
+STIS's two-dimensional detectors have allowed the instrument to gather 30 times more spectral data and 500 times more spatial data than the previous spectrographs on Hubble. These were capable of only looking at one place at a time.
+
+One of the greatest advantages to using STIS is in the study of supermassive black holes. STIS searches for massive black holes by studying the star and gas dynamics around galactic centers. It measures the distribution of matter in the universe by studying quasar absorption lines. It also uses its high sensitivity and spatial resolution to study star formation in distant galaxies and perform spectroscopic mapping of solar system objects.
+
+Near Infrared Camera and Multi-Object Spectrometer (NICMOS)
+The Near Infrared Camera and Multi-Object Spectrometer (NICMOS) has let us gain valuable new information on the dusty centers of galaxies and the formation of stars and planets. NICMOS consists of three cameras. It is capable of both infrared imaging and spectroscopic observations of astronomical targets.
+
+NICMOS gave astronomers their first clear view of the universe at near-infrared wavelengths between 0.8 and 2.5 micrometers - longer wavelengths than the human eye can see. (The expansion of the universe shifts the light from very distant objects toward longer red and infrared wavelengths.)
+
+NICMOS's near infrared capabilities have provided views of objects too distant for research by previous Hubble optical and ultraviolet instruments. NICMOS's detectors also perform more efficiently than previous infrared detectors. With its cryogenics depleted, NICMOS is now dormant and awaiting the installation of a new cooling system in SM3B.
+
+ 
+Primary Spacecraft Hardware replacements included the following:
+Refurbished Fine Guidance Sensor (FGS)
+Hubble uses this optical sensor provide pointing information for the spacecraft and as a scientific instrument for astrometric science. The modification to this FGS spare added the capability for ground-controlled alignment corrections.
+The addition of an Optical Control Electronics Enhancement Kit (OCE-EK)
+The OCE-EK provided the electronic pathway for commanding the alignment mechanisms.
+The Solid State Recorder (SSR)
+This recorder replaced one of Hubble's three Engineering Science Tape Recorders (ESTR). The SSR provides much more flexibility than an ESTR, which is a reel-to-reel recorder and can store ten times more data. One of the other ESTRs was also replaced, but with a spare ESTR unit. During SM3A mission the reel-to-reel units were replaced with solid state recorders.
+Reaction Wheel Assemblies (RWA)
+One of Hubble's four RWA's was replaced by a refurbished spare. The RWA is part of Hubble's Pointing Control System. Spin momentum in the wheels moves the telescope to a target and maintains it in a stable position.
+ 
+Secondary Spacecraft Hardware
+Data Interface Units (DIU)
+Four Data Interface Units (DIU) on Hubble provide command and data interfaces between the spacecraft's data management system and the other HST subsystems. DIU-2 was replaced with a spare unit that has been modified and upgraded to correct for failures that occurred in the original unit.
+The Solar Array Drive Electronics (SADE)
+This controls the positioning of the solar arrays. Hubble has two SADE's of which one was replaced during the first servicing mission. The unit that was returned from orbit has been refurbished to correct for problems that resulted in transistor failures has been will be used to replace the second unit, SADE-2. The SADEs are provided by the European Space Agency, NASA's partner in the Hubble program.
+ 
+Hubble SM2 Logo
+Doing the Job
+The crew took more than 150 other crew aids and tools on this mission. They range from a simple bag for carrying some of the smaller tools to sophisticated, battery-operated power tools.
+
+A seven-member crew took part in this mission. Four astronauts conducted the planned spacewalks: Mark Lee, Gregory Harbaugh, Steven Smith and Joseph Tanner were part of the extravehicular activity crew. Kenneth Bowersox was the commander, Scott Horowitz was the pilot, and Steven Hawley was the Remote Manipulator System Operator.
