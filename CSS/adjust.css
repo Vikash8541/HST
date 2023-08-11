@@ -1,0 +1,653 @@
+@media (max-width: 420px) {
+  .dots-carosuel-make {
+    bottom: -55px;
+    top: auto;
+    right: 25%;
+    flex-direction: row;
+    transform: translateX(-25%);
+  }
+  .dot-2 {
+    bottom: -55px;
+    right: 37%;
+    transform: translateX(-37%);
+  }
+  .dot-3 {
+    bottom: -27px;
+    right: 25%;
+    transform: translateX(-25%);
+  }
+  .dot-4 {
+    bottom: -46px;
+    right: 11%;
+    transform: translateX(-11%);
+  }
+  .dot-5 {
+    bottom: -60px;
+    right: 14%;
+    transform: translateX(-14%);
+  }
+  .dot-6 {
+    bottom: -46px;
+    right: 23%;
+    transform: translateX(-23%);
+  }
+  .dot-7 {
+    bottom: -55px;
+    right: 30%;
+    transform: translateX(-30%);
+  }
+  .gallery-universe-caro {
+    display: none !important;
+    width: 100%;
+    height: auto;
+  }
+  .carosuel-dis-prev,
+  .carosuel-dis-next {
+    bottom: 30px;
+  }
+  .carosuel-dis-prev {
+    left: 40%;
+  }
+  .carosuel-dis-next {
+    right: 40%;
+  }
+  .image-uni-caro img {
+    height: auto;
+  }
+  .higlights-dis-banner {
+    padding-bottom: 150px;
+  }
+}
+@media (max-width: 420px) {
+  .obs-head {
+    font-size: clamp(1rem, 7.5vw, 7.5rem) !important;
+    letter-spacing: 15px !important;
+  }
+  .optics-banner {
+    background-size: contain;
+  }
+  .design-dot {
+    right: 38%;
+    transform: translateX(-38%);
+  }
+  .optics-dot {
+    right: 30%;
+    transform: translateX(-30%);
+  }
+  .inst-dot {
+    right: 15%;
+    transform: translateX(-15%);
+  }
+  .point-dot {
+    right: 30%;
+    transform: translateX(-30%);
+  }
+  .elec-dot {
+    right: 25%;
+    transform: translateX(-25%);
+  }
+  .cluster-dot {
+    right: 30%;
+    transform: translateX(-30%);
+  }
+  .comm-dot {
+    bottom: -50px;
+    right: 30%;
+    transform: translateX(-30%);
+  }
+  .HW-dot {
+    bottom: -37px;
+    right: 15%;
+    transform: translateX(-15%);
+  }
+  .current-inst-text li {
+    margin-left: 10px;
+  }
+}
+@media (max-width: 420px) {
+  .dis-youtube-video-link {
+    height: auto;
+  }
+
+  .you-link-dis {
+    height: auto;
+  }
+  .dis-bread {
+    display: none;
+  }
+}
+@media (max-width: 420px) {
+  .nasa-science-handle {
+    height: auto;
+  }
+}
+@media (max-width: 420px) {
+  .nasa-pro-sub {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+  .nasa-pro-handle {
+    border: transparent;
+    border-radius: 0;
+  }
+  .nasa-pro-handle img {
+    width: 100%;
+  }
+  .nasa-pro-sub:nth-child(2) {
+    margin-top: 0;
+  }
+  .handle-nasa-office {
+    flex-direction: column;
+  }
+  .nasa-office-sci-hand {
+    padding-bottom: 2rem;
+    width: 100%;
+  }
+}
+@media (max-width: 420px) {
+  .image-logo-sm-1 {
+    justify-content: center;
+    gap: 20px;
+  }
+  .image-gallery-mission-comp {
+    flex-direction: column;
+    width: 100%;
+    gap: 50px;
+  }
+  .image-gallery-mission-comp .image-gal-mis {
+    height: auto;
+    width: auto;
+  }
+  .image-gal-mis .icon-see {
+    width: auto;
+  }
+  .main-handle-content-mission {
+    padding: 2rem 1rem;
+  }
+  .points-list-mission {
+    padding-right: 0 !important;
+    width: 100%;
+  }
+  .points-list-mission li {
+    /* margin-left: 10px; */
+    line-height: 1.5rem;
+  }
+  .mission-3A img {
+    width: auto;
+    height: auto;
+  }
+  .mission-3A::after {
+    height: 452px;
+    width: 90%;
+  }
+  .mission-3A:nth-child(1)::after {
+    width: 100%;
+  }
+  .mission-3A:nth-child(2):after {
+    top: 20px;
+    right: 15px;
+    height: 216px;
+  }
+}
+@media (max-width: 420px) {
+  .mission-ser-head {
+    font-size: clamp(1.3rem, 2.5rem, 5vw);
+  }
+  .text-mission-left p {
+    margin-bottom: 0;
+    line-height: 2rem;
+  }
+  .repair-img {
+    margin: 0;
+    height: auto;
+  }
+  .repair-img img {
+    width: 100%;
+  }
+  .repair-img::after {
+    top: 20px;
+    height: 173px;
+  }
+  .repair-img:nth-child(2):after {
+    top: 9px;
+    right: 15px;
+    height: 188px;
+    width: 92%;
+  }
+  .images-astro-caro {
+    padding-top: 2rem;
+  }
+  .img-astro-hand {
+    border-radius: 0;
+    border: 2px solid var(--primary-color);
+  }
+  .img-astro-hand img {
+    height: 100%;
+  }
+  .owl-nav {
+    border: 2px solid var(--primary-color);
+  }
+}
+@media (max-width: 420px) {
+  .text-banner-mission h2 {
+    -webkit-text-stroke: transparent !important;
+    -webkit-text-stroke-width: 0px !important;
+    padding-left: 20px;
+  }
+  .text-banner-mission span {
+    -webkit-text-stroke: transparent !important;
+    -webkit-text-stroke-width: 0px !important;
+  }
+  .text-banner-mission p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+@media (max-width: 420px) {
+  .about-text-edit {
+    background-size: cover;
+  }
+  .social-icon-wrapper {
+    display: none;
+  }
+  .smoke-effect {
+    right: -38px;
+  }
+}
+@media (max-width: 420px) {
+  #scroll-up-btn {
+    right: 0px;
+    bottom: 110px;
+  }
+  #scroll-up-btn a img {
+    width: auto;
+    height: 85px;
+  }
+}
+@media (max-width: 420px) {
+  .footer-banner {
+    padding: 50px 0 310px 0px;
+    background-size: cover;
+  }
+  .left-part-footer,
+  .right-part-footer {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .subs-box {
+    display: none;
+  }
+  .footer-nav-section {
+    flex-direction: column;
+    width: 100%;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+  }
+  .sub-menu-footer {
+    display: none;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 991px) {
+  .partners-banner {
+    padding: 50px 0 195px 0;
+  }
+  .nasa-img {
+    width: auto;
+    height: 200px;
+  }
+  .esa-img {
+    width: auto;
+    height: 200px;
+  }
+  .esa-img::after {
+    top: -17px;
+    right: 0;
+    transform: translate(0);
+  }
+  .esa-img h5 {
+    transform: translateX(0);
+  }
+}
+@media (max-width: 420px) {
+  .partners-banner {
+    padding: 50px 0 25px 0;
+  }
+  .nasa-img {
+    width: 100%;
+  }
+  .esa-img {
+    text-align: center;
+  }
+  .esa-img::after {
+    top: -2%;
+    right: 0;
+    height: 250px;
+    width: 250px;
+    transform: translateY(2%);
+  }
+  .esa-img h5 {
+    padding: 0;
+    transform: none;
+  }
+  .astronaut-par {
+    display: none;
+  }
+}
+@media (min-width: 801px) and (max-width: 991px) {
+  .text-sec-pro {
+    height: 626px;
+  }
+  .fact-box-wrap {
+    width: 100%;
+  }
+}
+@media (min-width: 421px) and (max-width: 768px) {
+  .fact-box-2 {
+    height: 510px;
+  }
+}
+@media (min-width: 801px) and (max-width: 991px) {
+  .fact-box-2 {
+    height: 875px;
+  }
+}
+@media (max-width: 420px) {
+  .pro-fea {
+    background-image: linear-gradient(
+        0deg,
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url(../Img/Home/Properties-and-Features.png);
+  }
+}
+@media (min-width: 801px) and (max-width: 991px) {
+  .img-hst-handle {
+    width: 100%;
+  }
+  .hst-img-take {
+    width: 100%;
+  }
+}
+@media (max-width: 420px) {
+  #about-hst {
+    padding: 50px 0 85px 0;
+  }
+  .img-hst-handle {
+    flex-flow: wrap column;
+    text-align: center;
+    margin: 0;
+  }
+
+  .hst-img-take {
+    width: 100%;
+  }
+  .hst-img-take::after {
+    top: 20px;
+    right: 55px;
+    height: 289px;
+    width: 58%;
+  }
+  .hst-img-take:nth-child(2):after {
+    height: 295px;
+    left: 37px;
+    width: 69%;
+  }
+  .repair-img:nth-child(2):after {
+    top: 14px;
+    right: 10px;
+    height: 180px;
+  }
+}
+@media (max-width: 420px) {
+  .overview-text {
+    padding: 0;
+  }
+  .tele-img-2 {
+    height: 100%;
+    width: 100%;
+    left: 0;
+  }
+}
+@media (min-width: 421px) and (max-width: 768px) {
+  #breifly {
+    padding-bottom: 35px !important;
+  }
+
+  .tele-img-2 {
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    overflow: hidden;
+    align-items: normal;
+    margin-left: 120px;
+    margin-bottom: 2rem;
+  }
+  .tele-img-2 img {
+    border-radius: 0;
+  }
+  .overview-text {
+    margin-left: 30px;
+    padding-right: 0;
+  }
+  .img-hst-handle {
+    margin-top: 60px !important;
+    justify-content: center !important;
+  }
+}
+
+/* Home Banner  */
+@media (min-width: 801px) and (max-width: 991px) {
+  .text-home-ban h2 {
+    font-size: 2rem;
+  }
+  .rocket-hub {
+    height: 50px;
+    right: 16%;
+    transform: translateX(-16%);
+  }
+  .mag-earth {
+    height: 70px;
+    top: 13px;
+  }
+  .rocket-ani {
+    top: 48px;
+    left: 108px;
+  }
+  .telescope-img::after {
+    left: -49px;
+    bottom: 40px;
+  }
+  .tele-img-2 {
+    width: 240px !important;
+    height: 300px !important;
+  }
+}
+
+@media (min-width: 421px) and (max-width: 768px) {
+  .telescope-img {
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    left: 30%;
+    transform: translateX(-30%);
+  }
+  .telescope-img::after {
+    left: -46px;
+    bottom: 52px;
+  }
+  .rocket-ani {
+    height: 90px;
+    width: auto;
+    left: 430px;
+  }
+  .text-home-ban {
+    text-align: center;
+  }
+}
+@media (min-width: 421px) and (max-width: 540px) {
+  .rocket-hub {
+    height: 50px;
+    top: -5px;
+    right: 115px;
+  }
+  .mag-earth {
+    top: 12px;
+    height: 53px;
+    right: 173px;
+    transform: translateX(0px);
+  }
+}
+@media (max-width: 420px) {
+  .banner {
+    padding: 150px 0 80px 0;
+  }
+  .home-banner {
+    padding: 150px 0 90px 0;
+  }
+  .text-banner-main {
+    gap: 30px;
+    padding: 0 1.3rem !important;
+  }
+  .home-main-set {
+    margin-top: 0;
+  }
+  .telescope-text h2 {
+    margin-bottom: 1rem;
+  }
+  .mag-earth {
+    top: 12px;
+    right: 66px;
+    height: 55px;
+  }
+  .telescope-img {
+    width: 300px;
+    height: 300px;
+    left: 40px;
+  }
+  .telescope-img::after {
+    left: -50px;
+    bottom: 54px;
+  }
+  .get-started-btn {
+    padding: 1rem;
+    font-size: 12px;
+  }
+  .vector-png {
+    height: 200px;
+    left: -100px;
+    top: 57%;
+    transform: translateY(-90%);
+  }
+  .rocket-hub {
+    top: -9px;
+    right: 20%;
+    transform: translateX(-20%);
+    height: 45px;
+  }
+  .rocket-ani {
+    display: none;
+  }
+}
+
+@media (min-width: 390px) and (max-width: 420px) {
+  .rocket-hub {
+    right: 26%;
+    transform: translateX(-26%);
+  }
+  .mag-earth {
+    right: 107px;
+  }
+}
+@media (min-width: 376px) and (max-width: 399px) {
+  .rocket-hub {
+    right: 24%;
+    transform: translateX(-24%);
+  }
+  .mag-earth {
+    right: 85px;
+  }
+}
+@media (min-width: 361px) and (max-width: 375px) {
+  .rocket-hub {
+    right: 24%;
+    transform: translateX(-24%);
+  }
+  .mag-earth {
+    right: 85px;
+  }
+}
+@media (min-width: 300px) and (max-width: 360px) {
+  .rocket-hub {
+    right: 16%;
+    transform: translateX(-16%);
+  }
+  .mag-earth {
+    right: 52px;
+  }
+}
+@media (max-width: 420px) {
+  header {
+    padding: 1rem 2rem;
+  }
+  header.show {
+    padding: 2rem 2rem;
+  }
+  .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .nav-links {
+    display: none;
+  }
+  #toggle {
+    display: flex;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 991px) {
+  .nav-links {
+    padding-right: 7rem;
+  }
+}
+@media (min-width: 421px) and (max-width: 768px) {
+  header {
+    padding: 1rem 2rem;
+  }
+  header.show {
+    padding: 2rem 2rem;
+  }
+  .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .nav-links {
+    display: none;
+  }
+  #toggle {
+    display: flex;
+  }
+}
+@media (min-width: 421px) and (max-width: 800px) {
+  .text-banner-main {
+    padding: 0 2rem;
+  }
+}
+@media (max-width: 420px) {
+  .astro-2-img {
+    top: -62px;
+  }
+  .text-sec-pro {
+    height: 545px !important;
+  }
+  .fact-box-2 {
+    height: 620px !important;
+  }
+}
